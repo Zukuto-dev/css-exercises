@@ -1,0 +1,37 @@
+.font {
+
+
+ font-family: Verdana, "DejaVu Sans", sans-serif;
+
+ background-color: rgb(252, 170, 170);
+
+}
+
+#two {
+
+color: rgb(23, 23, 192);
+
+font-size: 36px;
+
+}
+
+.three {
+
+
+font-size: 24px;
+
+
+
+}
+
+#four {
+
+
+background-color: rgb(118, 230, 133);
+
+font-size: 24px;
+
+font-weight: bold;
+
+
+}
